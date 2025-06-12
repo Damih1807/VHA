@@ -1,0 +1,20 @@
+# Loại thư mục môi trường ảo Python
+.venv/
+__pycache__/
+*.pyc
+
+# Loại các file và folder nặng hoặc không cần thiết
+*.pkl
+*.pt
+*.zip
+*.tar.gz
+*.csv
+*.tsv
+*.xlsx
+*.ipynb
+
+# Bỏ file IDE, Git
+.git/
+.vscode/
+.DS_Store
+.env

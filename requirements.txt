@@ -1,0 +1,10 @@
+streamlit
+boto3
+langchain
+faiss-cpu
+sentence-transformers
+transformers
+unstructured
+python-dotenv
+UploadView
+unstructured[pdf]

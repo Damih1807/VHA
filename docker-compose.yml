@@ -1,0 +1,14 @@
+version: "3.9"
+
+services:
+  admin:
+    build:
+      context: ./Admin_app
+    ports:
+      - "8501:8501"
+
+  user:
+    build:
+      context: ./User_app
+    ports:
+      - "8502:8502"
