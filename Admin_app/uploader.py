@@ -8,7 +8,6 @@ def upload_file(upload_dir, filename):
         print(f"File đã tồn tại: {file_path}")
         return file_path
 
-    # Giả lập upload file nếu cần
     with open(file_path, "wb") as f:
         f.write(b"demo content")
 

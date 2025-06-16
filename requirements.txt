@@ -1,6 +1,7 @@
 streamlit
 boto3
 langchain
+langchain_community
 faiss-cpu
 sentence-transformers
 transformers
