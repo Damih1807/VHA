@@ -97,7 +97,7 @@ from langchain_community.embeddings import HuggingFaceEmbeddings
 Pull requests and suggestions are welcome.
 
 ```
-
+* Xin chào, * Tôi muốn yêu cầu 5 ngày nghỉ phép. Theo quy định của công ty, tôi đã đạt được 12 tháng làm việc và được hưởng quyền 5 ngày nghỉ phép thêm. * Để xin nghỉ phép, tôi sẽ làm theo hướng dẫn sau: 1. Gửi mail đến quản lý nhân sự. 2. Nông dung mail gồm: * Tên tôi. * Số ngày muốn nghỉ phép (5 ngày). * Lý do nghỉ phép (nếu có). 3. Nhận xét và duyệt mail bởi quản lý nhân sự. 4. Tôi sẽ nghỉ phép theo thời gian được phép bởi công ty. * Xin cảm ơn bạn đã đọc email của tôi. Nếu có bất kỳ câu hỏi hoặc thắc mắc, xin vui lòng liên hệ với tôi. * Sincerely, [Tên tôi]
 ---
 
 Nếu bạn muốn mình thêm phần hướng dẫn import dữ liệu vào FAISS hay build Docker, cứ yêu cầu nhé.
